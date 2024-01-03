@@ -1,0 +1,60 @@
+#div1{
+    
+    height: 600px;
+
+    background-image: url(https://img.lovepik.com/bg/20231215/Stunning-Photo-Elegant-Lady-Capturing-Moments-in-a-Kimono-with_2463625_wh860.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+#div2{
+    border: 2px solid rgb(231, 228, 228);
+    color: azure;
+    text-align: center;
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    top: 300px;
+    left: 600px;
+    right: 600px;
+    bottom: 500px;
+    font-size: larger;
+    font-weight: bold;
+    
+}
+img{
+    width: 900px;
+    
+    
+}
+#div3{
+    margin: -30px;
+    height: 100px;
+    display: block;
+    background-color: rgb(172, 171, 171);
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    position: static;
+    
+}
+#outerdiv{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.innerdiv{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+
+}
+
+
+
+
+
+
+
